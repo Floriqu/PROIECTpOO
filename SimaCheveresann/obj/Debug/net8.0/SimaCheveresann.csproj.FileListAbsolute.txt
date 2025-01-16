@@ -1,0 +1,14 @@
+C:\Users\flori\RiderProjects\SimaCheveresann\SimaCheveresann\obj\Debug\net8.0\SimaCheveresann.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\RiderProjects\SimaCheveresann\SimaCheveresann\obj\Debug\net8.0\SimaCheveresann.AssemblyInfoInputs.cache
+C:\Users\flori\RiderProjects\SimaCheveresann\SimaCheveresann\obj\Debug\net8.0\SimaCheveresann.AssemblyInfo.cs
+C:\Users\flori\RiderProjects\SimaCheveresann\SimaCheveresann\obj\Debug\net8.0\SimaCheveresann.csproj.CoreCompileInputs.cache
+C:\Users\flori\RiderProjects\SimaCheveresann\SimaCheveresann\bin\Debug\net8.0\SimaCheveresann.exe
+C:\Users\flori\RiderProjects\SimaCheveresann\SimaCheveresann\bin\Debug\net8.0\SimaCheveresann.deps.json
+C:\Users\flori\RiderProjects\SimaCheveresann\SimaCheveresann\bin\Debug\net8.0\SimaCheveresann.runtimeconfig.json
+C:\Users\flori\RiderProjects\SimaCheveresann\SimaCheveresann\bin\Debug\net8.0\SimaCheveresann.dll
+C:\Users\flori\RiderProjects\SimaCheveresann\SimaCheveresann\bin\Debug\net8.0\SimaCheveresann.pdb
+C:\Users\flori\RiderProjects\SimaCheveresann\SimaCheveresann\obj\Debug\net8.0\SimaCheveresann.dll
+C:\Users\flori\RiderProjects\SimaCheveresann\SimaCheveresann\obj\Debug\net8.0\refint\SimaCheveresann.dll
+C:\Users\flori\RiderProjects\SimaCheveresann\SimaCheveresann\obj\Debug\net8.0\SimaCheveresann.pdb
+C:\Users\flori\RiderProjects\SimaCheveresann\SimaCheveresann\obj\Debug\net8.0\SimaCheveresann.genruntimeconfig.cache
+C:\Users\flori\RiderProjects\SimaCheveresann\SimaCheveresann\obj\Debug\net8.0\ref\SimaCheveresann.dll
